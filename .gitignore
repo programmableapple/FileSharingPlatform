@@ -20,3 +20,8 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+# Custom log files
+# Application-specific logs generated during runtime
+client_log
+server_log
