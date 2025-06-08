@@ -1,0 +1,242 @@
+2025-04-23 22:47:35,475 - INFO - Client initialized to connect to localhost:9999
+2025-04-23 22:47:35,485 - INFO - Connected to server at localhost:9999
+2025-04-23 22:47:35,485 - INFO - Received file list from server
+2025-04-23 22:49:09,993 - INFO - File branchflow_backend.tar downloaded successfully
+2025-04-23 22:49:23,789 - INFO - File package.json uploaded successfully
+2025-04-23 22:49:23,790 - INFO - Received file list from server
+2025-04-23 22:49:34,478 - INFO - File package.json downloaded successfully
+2025-04-23 22:58:32,651 - INFO - Client initialized to connect to localhost:9999
+2025-04-23 22:58:32,664 - INFO - Connected to server at localhost:9999
+2025-04-23 22:58:32,669 - INFO - Received file list from server
+2025-04-23 22:59:17,219 - INFO - File chen.pdf uploaded successfully
+2025-04-23 22:59:17,223 - INFO - Received file list from server
+2025-04-23 22:59:40,817 - INFO - File chen.pdf downloaded successfully
+2025-04-23 22:59:52,356 - INFO - Disconnected from server
+2025-04-23 22:59:54,137 - INFO - Client initialized to connect to localhost:9999
+2025-04-23 22:59:54,140 - INFO - Connected to server at localhost:9999
+2025-04-23 22:59:54,148 - INFO - Received file list from server
+2025-04-23 22:59:57,543 - INFO - Received file list from server
+2025-04-23 23:04:01,409 - INFO - Client initialized to connect to localhost:9999
+2025-04-23 23:04:01,417 - INFO - Connected to server at localhost:9999
+2025-04-23 23:04:01,420 - INFO - Received file list from server
+2025-04-23 23:04:24,103 - INFO - File chen.pdf uploaded successfully
+2025-04-23 23:04:24,107 - INFO - Received file list from server
+2025-04-23 23:04:30,812 - INFO - Received file list from server
+2025-04-23 23:04:31,084 - INFO - Received file list from server
+2025-04-23 23:04:31,300 - INFO - Received file list from server
+2025-04-23 23:04:31,487 - INFO - Received file list from server
+2025-04-23 23:04:36,026 - INFO - Disconnected from server
+2025-04-23 23:08:26,507 - INFO - Client initialized to connect to localhost:9999
+2025-04-23 23:08:26,514 - INFO - Connected to server at localhost:9999
+2025-04-23 23:08:26,518 - INFO - Received file list from server
+2025-04-23 23:08:32,908 - INFO - Disconnected from server
+2025-04-23 23:08:34,239 - INFO - Client initialized to connect to localhost:9999
+2025-04-23 23:08:34,241 - INFO - Connected to server at localhost:9999
+2025-04-23 23:08:34,247 - INFO - Received file list from server
+2025-04-23 23:09:10,742 - INFO - Client initialized to connect to localhost:9999
+2025-04-23 23:09:10,750 - INFO - Connected to server at localhost:9999
+2025-04-23 23:09:10,755 - INFO - Received file list from server
+2025-04-23 23:09:12,466 - INFO - Disconnected from server
+2025-04-23 23:09:19,786 - INFO - Client initialized to connect to localhost:9999
+2025-04-23 23:09:19,788 - INFO - Connected to server at localhost:9999
+2025-04-23 23:09:19,795 - INFO - Received file list from server
+2025-04-23 23:09:25,886 - INFO - File chen.pdf uploaded successfully
+2025-04-23 23:09:25,891 - INFO - Received file list from server
+2025-04-23 23:09:34,180 - INFO - File chen.pdf uploaded successfully
+2025-04-23 23:09:34,183 - INFO - Received file list from server
+2025-04-23 23:09:51,160 - INFO - Client initialized to connect to localhost:9999
+2025-04-23 23:09:51,178 - INFO - Connected to server at localhost:9999
+2025-04-23 23:09:51,210 - INFO - Received file list from server
+2025-04-23 23:10:00,590 - INFO - File chen_v1.pdf downloaded successfully
+2025-04-23 23:10:09,584 - INFO - Disconnected from server
+2025-04-23 23:10:17,742 - INFO - Client initialized to connect to localhosts:9999
+2025-04-23 23:10:24,595 - ERROR - Connection failed: [Errno 11001] getaddrinfo failed
+2025-04-23 23:10:30,958 - INFO - Client initialized to connect to localhost:9999
+2025-04-23 23:10:30,961 - INFO - Connected to server at localhost:9999
+2025-04-23 23:10:30,967 - INFO - Received file list from server
+2025-04-23 23:10:48,166 - INFO - Received file list from server
+2025-04-29 14:40:46,908 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 14:40:46,913 - INFO - Connected to server at localhost:9999
+2025-04-29 14:40:46,915 - INFO - Received file list from server
+2025-04-29 14:40:48,980 - INFO - Disconnected from server
+2025-04-29 14:41:35,657 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 14:41:35,659 - INFO - Connected to server at localhost:9999
+2025-04-29 14:41:35,661 - INFO - Received file list from server
+2025-04-29 14:41:38,747 - INFO - Disconnected from server
+2025-04-29 14:47:17,212 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 14:47:17,217 - INFO - Connected to server at localhost:9999
+2025-04-29 14:47:17,218 - INFO - Received file list from server
+2025-04-29 14:47:42,702 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 14:47:42,707 - INFO - Connected to server at localhost:9999
+2025-04-29 14:47:42,708 - INFO - Received file list from server
+2025-04-29 14:47:45,605 - INFO - File (7245) Scheduling Criteria - YouTube - Google Chrome 11_2_2024 8_03_36 PM.png uploaded successfully
+2025-04-29 14:47:45,606 - INFO - Received file list from server
+2025-04-29 14:47:50,108 - INFO - Received file list from server
+2025-04-29 14:47:53,601 - INFO - File (7245) Scheduling Criteria - YouTube - Google Chrome 11_2_2024 8_03_36 PM.png uploaded successfully
+2025-04-29 14:47:53,602 - INFO - Received file list from server
+2025-04-29 14:48:01,085 - INFO - File (7245) Scheduling Criteria - YouTube - Google Chrome 11_2_2024 8_03_36 PM.png uploaded successfully
+2025-04-29 14:48:01,086 - INFO - Received file list from server
+2025-04-29 14:48:17,106 - INFO - Received file list from server
+2025-04-29 14:48:18,810 - INFO - Disconnected from server
+2025-04-29 15:11:05,540 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 15:11:05,545 - INFO - Connected to server at localhost:9999
+2025-04-29 15:11:05,547 - INFO - Received file list from server
+2025-04-29 15:11:09,725 - ERROR - Error in upload_file: cannot access local variable 'resp' where it is not associated with a value
+2025-04-29 15:11:09,726 - INFO - Disconnected from server
+2025-04-29 15:11:22,106 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 15:11:22,106 - INFO - Connected to server at localhost:9999
+2025-04-29 15:11:22,110 - INFO - Received file list from server
+2025-04-29 15:11:28,280 - ERROR - Error in upload_file: cannot access local variable 'resp' where it is not associated with a value
+2025-04-29 15:11:28,280 - INFO - Disconnected from server
+2025-04-29 15:14:05,048 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 15:14:05,052 - INFO - Connected to server at localhost:9999
+2025-04-29 15:14:05,053 - INFO - Received file list from server
+2025-04-29 15:14:08,421 - ERROR - Error in upload_file: 'FileClient' object has no attribute 'recv'
+2025-04-29 15:14:08,421 - INFO - Disconnected from server
+2025-04-29 15:14:42,352 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 15:14:42,356 - INFO - Connected to server at localhost:9999
+2025-04-29 15:14:42,357 - INFO - Received file list from server
+2025-04-29 15:14:45,441 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-04-29 15:14:45,442 - INFO - Received file list from server
+2025-04-29 15:14:49,668 - INFO - Disconnected from server
+2025-04-29 15:17:13,425 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 15:17:13,430 - INFO - Connected to server at localhost:9999
+2025-04-29 15:17:13,431 - INFO - Received file list from server
+2025-04-29 15:17:18,221 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-04-29 15:17:18,223 - INFO - Received file list from server
+2025-04-29 15:17:22,003 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-04-29 15:17:22,005 - INFO - Received file list from server
+2025-04-29 15:53:51,503 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 15:53:51,508 - INFO - Connected to server at localhost:9999
+2025-04-29 15:53:51,509 - INFO - Received file list from server
+2025-04-29 15:54:06,856 - INFO - Received file list from server
+2025-04-29 15:55:13,375 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 15:55:13,380 - INFO - Connected to server at localhost:9999
+2025-04-29 15:55:13,381 - INFO - Received file list from server
+2025-04-29 15:56:35,210 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 15:56:35,214 - INFO - Connected to server at localhost:9999
+2025-04-29 15:56:35,215 - INFO - Received file list from server
+2025-04-29 15:56:37,722 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-04-29 15:56:37,723 - INFO - Received file list from server
+2025-04-29 15:56:42,519 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-04-29 15:56:42,520 - INFO - Received file list from server
+2025-04-29 15:56:45,550 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-04-29 15:56:45,551 - INFO - Received file list from server
+2025-04-29 15:56:47,617 - INFO - Received file list from server
+2025-04-29 15:56:51,013 - INFO - Received file list from server
+2025-04-29 15:57:05,168 - INFO - Received file list from server
+2025-04-29 15:57:06,947 - INFO - Disconnected from server
+2025-04-29 15:59:29,059 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 15:59:29,083 - INFO - Connected to server at localhost:9999
+2025-04-29 15:59:29,110 - INFO - Received file list from server
+2025-04-29 16:00:36,154 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 16:00:36,159 - INFO - Connected to server at localhost:9999
+2025-04-29 16:00:36,160 - INFO - Received file list from server
+2025-04-29 16:03:15,537 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 16:03:15,542 - INFO - Connected to server at localhost:9999
+2025-04-29 16:03:15,543 - INFO - Received file list from server
+2025-04-29 16:06:05,575 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 16:06:05,581 - INFO - Connected to server at localhost:9999
+2025-04-29 16:06:05,582 - INFO - Received file list from server
+2025-04-29 16:06:55,604 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 16:06:55,610 - INFO - Connected to server at localhost:9999
+2025-04-29 16:06:55,612 - INFO - Received file list from server
+2025-04-29 16:07:38,511 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 16:07:38,515 - INFO - Connected to server at localhost:9999
+2025-04-29 16:07:38,517 - INFO - Received file list from server
+2025-04-29 16:07:40,738 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-04-29 16:07:40,740 - INFO - Received file list from server
+2025-04-29 16:07:44,408 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-04-29 16:07:44,410 - INFO - Received file list from server
+2025-04-29 16:07:47,237 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-04-29 16:07:47,238 - INFO - Received file list from server
+2025-04-29 16:19:24,927 - INFO - Received file list from server
+2025-04-29 16:30:35,854 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 16:30:35,859 - INFO - Connected to server at localhost:9999
+2025-04-29 16:30:35,860 - INFO - Received file list from server
+2025-04-29 16:30:38,640 - ERROR - Error in upload_file: 'FileClient' object has no attribute 'send'
+2025-04-29 16:30:38,640 - INFO - Disconnected from server
+2025-04-29 16:31:35,241 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 16:31:35,246 - INFO - Connected to server at localhost:9999
+2025-04-29 16:31:35,247 - INFO - Received file list from server
+2025-04-29 16:31:37,126 - ERROR - Error in upload_file: cannot access local variable 'action' where it is not associated with a value
+2025-04-29 16:31:37,126 - INFO - Disconnected from server
+2025-04-29 16:31:53,996 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 16:31:54,002 - INFO - Connected to server at localhost:9999
+2025-04-29 16:31:54,003 - INFO - Received file list from server
+2025-04-29 16:31:56,437 - ERROR - Error in upload_file: cannot access local variable 'action' where it is not associated with a value
+2025-04-29 16:31:56,437 - INFO - Disconnected from server
+2025-04-29 16:34:07,958 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 16:34:07,963 - INFO - Connected to server at localhost:9999
+2025-04-29 16:34:07,964 - INFO - Received file list from server
+2025-04-29 16:34:10,233 - ERROR - Error in upload_file: cannot access local variable 'action' where it is not associated with a value
+2025-04-29 16:34:10,233 - INFO - Disconnected from server
+2025-04-29 16:36:33,798 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 16:36:33,803 - INFO - Connected to server at localhost:9999
+2025-04-29 16:36:33,805 - INFO - Received file list from server
+2025-04-29 16:36:36,050 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-04-29 16:36:36,051 - INFO - Received file list from server
+2025-04-29 16:36:39,237 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-04-29 16:36:39,239 - INFO - Received file list from server
+2025-04-29 16:36:41,988 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-04-29 16:36:41,989 - INFO - Received file list from server
+2025-04-29 16:37:29,805 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 16:37:29,810 - INFO - Connected to server at localhost:9999
+2025-04-29 16:37:29,812 - INFO - Received file list from server
+2025-04-29 16:37:33,033 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-04-29 16:37:33,035 - INFO - Received file list from server
+2025-04-29 16:37:36,143 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-04-29 16:37:36,144 - INFO - Received file list from server
+2025-04-29 16:37:53,389 - INFO - Received file list from server
+2025-04-29 16:37:58,592 - INFO - Disconnected from server
+2025-04-29 16:37:59,331 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 16:37:59,332 - INFO - Connected to server at localhost:9999
+2025-04-29 16:37:59,335 - INFO - Received file list from server
+2025-04-29 16:39:24,644 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 16:39:24,649 - INFO - Connected to server at localhost:9999
+2025-04-29 16:39:24,650 - INFO - Received file list from server
+2025-04-29 16:39:27,222 - INFO - File Form Based Requirements.docx uploaded successfully
+2025-04-29 16:39:27,223 - INFO - Received file list from server
+2025-04-29 16:39:29,784 - INFO - File Form Based Requirements.docx uploaded successfully
+2025-04-29 16:39:29,785 - INFO - Received file list from server
+2025-04-29 16:39:32,690 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-04-29 16:39:32,692 - INFO - Received file list from server
+2025-04-29 16:39:35,673 - INFO - File HW2&3_Combined_Fall_2024.pdf uploaded successfully
+2025-04-29 16:39:35,674 - INFO - Received file list from server
+2025-04-29 16:39:53,360 - INFO - Received file list from server
+2025-04-29 16:55:07,157 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 16:55:07,161 - INFO - Connected to server at localhost:9999
+2025-04-29 16:55:07,163 - INFO - Received file list from server
+2025-04-29 16:56:22,525 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 16:56:22,529 - INFO - Connected to server at localhost:9999
+2025-04-29 16:56:22,530 - INFO - Received file list from server
+2025-04-29 16:57:17,664 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 16:57:17,669 - INFO - Connected to server at localhost:9999
+2025-04-29 16:57:17,670 - INFO - Received file list from server
+2025-04-29 16:57:20,070 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-04-29 16:57:20,072 - INFO - Received file list from server
+2025-04-29 16:57:23,144 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-04-29 16:57:23,145 - INFO - Received file list from server
+2025-04-29 16:57:26,227 - INFO - File Final_K2P_Briefing Note_Child Protection_April 11 2018.pdf uploaded successfully
+2025-04-29 16:57:26,228 - INFO - Received file list from server
+2025-04-29 17:18:27,150 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 17:18:27,155 - INFO - Connected to server at localhost:9999
+2025-04-29 17:18:27,156 - INFO - Received file list from server
+2025-04-29 17:19:06,602 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 17:19:06,606 - INFO - Connected to server at localhost:9999
+2025-04-29 17:19:06,608 - INFO - Received file list from server
+2025-04-29 17:19:39,745 - INFO - Client initialized to connect to localhost:9999
+2025-04-29 17:19:39,749 - INFO - Connected to server at localhost:9999
+2025-04-29 17:19:39,750 - INFO - Received file list from server
+2025-04-29 17:19:42,377 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-04-29 17:19:42,378 - INFO - Received file list from server
+2025-04-29 17:19:46,189 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-04-29 17:19:46,191 - INFO - Received file list from server
+2025-04-29 17:19:59,532 - INFO - Received file list from server
+2025-05-03 01:28:30,467 - INFO - Client initialized to connect to localhost:9999
+2025-05-03 01:28:30,472 - INFO - Connected to server at localhost:9999
+2025-05-03 01:28:30,475 - INFO - Received file list from server
+2025-05-03 01:29:04,335 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-05-03 01:29:04,336 - INFO - Received file list from server
+2025-05-03 01:29:11,082 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-05-03 01:29:11,084 - INFO - Received file list from server

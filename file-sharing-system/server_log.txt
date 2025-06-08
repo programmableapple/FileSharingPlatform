@@ -1,0 +1,257 @@
+2025-04-23 22:47:25,539 - INFO - Server initialized on localhost:9999
+2025-04-23 22:47:25,550 - INFO - Server started on localhost:9999
+2025-04-23 22:57:16,864 - INFO - Server initialized on localhost:9999
+2025-04-23 22:57:16,870 - INFO - Server started on localhost:9999
+2025-04-23 22:58:32,664 - INFO - New connection from ('127.0.0.1', 50301)
+2025-04-23 22:58:32,669 - INFO - Sent file list to client
+2025-04-23 22:59:17,219 - INFO - File chen.pdf uploaded successfully
+2025-04-23 22:59:17,223 - INFO - Sent file list to client
+2025-04-23 22:59:40,807 - INFO - File chen.pdf downloaded by client
+2025-04-23 22:59:52,356 - INFO - Connection from ('127.0.0.1', 50301) closed
+2025-04-23 22:59:54,140 - INFO - New connection from ('127.0.0.1', 50306)
+2025-04-23 22:59:54,148 - INFO - Sent file list to client
+2025-04-23 22:59:57,543 - INFO - Sent file list to client
+2025-04-23 23:03:22,902 - INFO - Server initialized on localhost:9999
+2025-04-23 23:03:22,910 - INFO - Server started on localhost:9999
+2025-04-23 23:04:01,417 - INFO - New connection from ('127.0.0.1', 50338)
+2025-04-23 23:04:01,419 - INFO - Sent file list to client
+2025-04-23 23:04:24,103 - INFO - File chen.pdf uploaded successfully
+2025-04-23 23:04:24,107 - INFO - Sent file list to client
+2025-04-23 23:04:30,812 - INFO - Sent file list to client
+2025-04-23 23:04:31,084 - INFO - Sent file list to client
+2025-04-23 23:04:31,300 - INFO - Sent file list to client
+2025-04-23 23:04:31,487 - INFO - Sent file list to client
+2025-04-23 23:04:36,026 - INFO - Connection from ('127.0.0.1', 50338) closed
+2025-04-23 23:06:39,392 - INFO - Server initialized on localhost:9999
+2025-04-23 23:06:39,399 - INFO - Server started on localhost:9999
+2025-04-23 23:07:00,844 - INFO - Server initialized on localhost:9999
+2025-04-23 23:07:00,851 - INFO - Server started on localhost:9999
+2025-04-23 23:07:54,058 - INFO - Server initialized on localhost:9999
+2025-04-23 23:07:54,065 - INFO - Server started on localhost:9999
+2025-04-23 23:08:26,515 - INFO - New connection from ('127.0.0.1', 50423)
+2025-04-23 23:08:26,518 - INFO - Sent file list to client
+2025-04-23 23:08:32,908 - INFO - Connection from ('127.0.0.1', 50423) closed
+2025-04-23 23:08:34,241 - INFO - New connection from ('127.0.0.1', 50424)
+2025-04-23 23:08:34,247 - INFO - Sent file list to client
+2025-04-23 23:08:40,289 - INFO - Connection from ('127.0.0.1', 50424) closed
+2025-04-23 23:08:52,540 - INFO - Server initialized on localhost:9999
+2025-04-23 23:08:52,547 - INFO - Server started on localhost:9999
+2025-04-23 23:09:10,751 - INFO - New connection from ('127.0.0.1', 50425)
+2025-04-23 23:09:10,755 - INFO - Sent file list to client
+2025-04-23 23:09:12,466 - INFO - Connection from ('127.0.0.1', 50425) closed
+2025-04-23 23:09:19,788 - INFO - New connection from ('127.0.0.1', 50426)
+2025-04-23 23:09:19,795 - INFO - Sent file list to client
+2025-04-23 23:09:25,886 - INFO - File chen_v1.pdf uploaded successfully
+2025-04-23 23:09:25,890 - INFO - Sent file list to client
+2025-04-23 23:09:34,179 - INFO - File chen_v2.pdf uploaded successfully
+2025-04-23 23:09:34,183 - INFO - Sent file list to client
+2025-04-23 23:09:51,180 - INFO - New connection from ('127.0.0.1', 50428)
+2025-04-23 23:09:51,210 - INFO - Sent file list to client
+2025-04-23 23:10:00,579 - INFO - File chen_v1.pdf downloaded by client
+2025-04-23 23:10:09,585 - INFO - Connection from ('127.0.0.1', 50428) closed
+2025-04-23 23:10:30,961 - INFO - New connection from ('127.0.0.1', 50432)
+2025-04-23 23:10:30,967 - INFO - Sent file list to client
+2025-04-23 23:10:48,166 - INFO - Sent file list to client
+2025-04-23 23:11:00,898 - INFO - Connection from ('127.0.0.1', 50432) closed
+2025-04-23 23:19:12,361 - ERROR - Error handling client ('127.0.0.1', 50426): [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-04-23 23:19:12,362 - INFO - Connection from ('127.0.0.1', 50426) closed
+2025-04-29 14:40:20,902 - INFO - Server initialized on localhost:9999
+2025-04-29 14:40:20,906 - INFO - Server started on localhost:9999
+2025-04-29 14:40:46,913 - INFO - New connection from ('127.0.0.1', 59314)
+2025-04-29 14:40:46,915 - INFO - Sent file list to client
+2025-04-29 14:40:48,980 - INFO - Connection from ('127.0.0.1', 59314) closed
+2025-04-29 14:41:35,659 - INFO - New connection from ('127.0.0.1', 59545)
+2025-04-29 14:41:35,661 - INFO - Sent file list to client
+2025-04-29 14:41:38,747 - INFO - Connection from ('127.0.0.1', 59545) closed
+2025-04-29 14:47:17,217 - INFO - New connection from ('127.0.0.1', 59978)
+2025-04-29 14:47:17,218 - INFO - Sent file list to client
+2025-04-29 14:47:33,818 - INFO - Connection from ('127.0.0.1', 59978) closed
+2025-04-29 14:47:42,707 - INFO - New connection from ('127.0.0.1', 59981)
+2025-04-29 14:47:42,708 - INFO - Sent file list to client
+2025-04-29 14:47:45,604 - INFO - File (7245) Scheduling Criteria - YouTube - Google Chrome 11_2_2024 8_03_36 PM.png uploaded successfully
+2025-04-29 14:47:45,606 - INFO - Sent file list to client
+2025-04-29 14:47:50,108 - INFO - Sent file list to client
+2025-04-29 14:47:53,601 - INFO - File (7245) Scheduling Criteria - YouTube - Google Chrome 11_2_2024 8_03_36 PM_v1.png uploaded successfully
+2025-04-29 14:47:53,602 - INFO - Sent file list to client
+2025-04-29 14:48:01,085 - INFO - File (7245) Scheduling Criteria - YouTube - Google Chrome 11_2_2024 8_03_36 PM_v2.png uploaded successfully
+2025-04-29 14:48:01,086 - INFO - Sent file list to client
+2025-04-29 14:48:17,106 - INFO - Sent file list to client
+2025-04-29 14:48:18,810 - INFO - Connection from ('127.0.0.1', 59981) closed
+2025-04-29 15:11:05,546 - INFO - New connection from ('127.0.0.1', 60198)
+2025-04-29 15:11:05,547 - INFO - Sent file list to client
+2025-04-29 15:11:09,726 - ERROR - File integrity check failed for (7245) Scheduling Criteria - YouTube - Google Chrome 11_2_2024 8_03_36 PM.png
+2025-04-29 15:11:09,728 - ERROR - Error handling client ('127.0.0.1', 60198): [WinError 10053] An established connection was aborted by the software in your host machine
+2025-04-29 15:11:09,729 - INFO - Connection from ('127.0.0.1', 60198) closed
+2025-04-29 15:11:22,106 - INFO - New connection from ('127.0.0.1', 60200)
+2025-04-29 15:11:22,110 - INFO - Sent file list to client
+2025-04-29 15:11:28,280 - ERROR - File integrity check failed for Brainstorming for LR for MH and SRH.docx
+2025-04-29 15:11:28,281 - ERROR - Error handling client ('127.0.0.1', 60200): [WinError 10053] An established connection was aborted by the software in your host machine
+2025-04-29 15:11:28,281 - INFO - Connection from ('127.0.0.1', 60200) closed
+2025-04-29 15:14:05,052 - INFO - New connection from ('127.0.0.1', 60221)
+2025-04-29 15:14:05,053 - INFO - Sent file list to client
+2025-04-29 15:14:08,421 - ERROR - File integrity check failed for Brainstorming for LR for MH and SRH.docx
+2025-04-29 15:14:08,422 - ERROR - Error handling client ('127.0.0.1', 60221): [WinError 10053] An established connection was aborted by the software in your host machine
+2025-04-29 15:14:08,423 - INFO - Connection from ('127.0.0.1', 60221) closed
+2025-04-29 15:14:42,357 - INFO - New connection from ('127.0.0.1', 60229)
+2025-04-29 15:14:42,357 - INFO - Sent file list to client
+2025-04-29 15:14:45,440 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-04-29 15:14:45,442 - INFO - Sent file list to client
+2025-04-29 15:14:49,668 - INFO - Connection from ('127.0.0.1', 60229) closed
+2025-04-29 15:17:13,430 - INFO - New connection from ('127.0.0.1', 60269)
+2025-04-29 15:17:13,431 - INFO - Sent file list to client
+2025-04-29 15:17:18,221 - INFO - File Brainstorming for LR for MH and SRH_v1.docx uploaded successfully
+2025-04-29 15:17:18,223 - INFO - Sent file list to client
+2025-04-29 15:17:22,003 - INFO - File Brainstorming for LR for MH and SRH_v2.docx uploaded successfully
+2025-04-29 15:17:22,005 - INFO - Sent file list to client
+2025-04-29 15:43:19,114 - INFO - Connection from ('127.0.0.1', 60269) closed
+2025-04-29 15:53:51,508 - INFO - New connection from ('127.0.0.1', 60477)
+2025-04-29 15:53:51,509 - INFO - Sent file list to client
+2025-04-29 15:54:06,856 - INFO - Sent file list to client
+2025-04-29 15:54:52,144 - INFO - Connection from ('127.0.0.1', 60477) closed
+2025-04-29 15:55:13,381 - INFO - New connection from ('127.0.0.1', 60502)
+2025-04-29 15:55:13,381 - INFO - Sent file list to client
+2025-04-29 15:56:01,445 - INFO - Connection from ('127.0.0.1', 60502) closed
+2025-04-29 15:56:35,215 - INFO - New connection from ('127.0.0.1', 60511)
+2025-04-29 15:56:35,215 - INFO - Sent file list to client
+2025-04-29 15:56:37,722 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-04-29 15:56:37,723 - INFO - Sent file list to client
+2025-04-29 15:56:42,518 - INFO - File Brainstorming for LR for MH and SRH_v1.docx uploaded successfully
+2025-04-29 15:56:42,520 - INFO - Sent file list to client
+2025-04-29 15:56:45,550 - INFO - File Brainstorming for LR for MH and SRH_v2.docx uploaded successfully
+2025-04-29 15:56:45,551 - INFO - Sent file list to client
+2025-04-29 15:56:47,617 - INFO - Sent file list to client
+2025-04-29 15:56:51,013 - INFO - Sent file list to client
+2025-04-29 15:57:05,168 - INFO - Sent file list to client
+2025-04-29 15:57:06,948 - INFO - Connection from ('127.0.0.1', 60511) closed
+2025-04-29 15:59:29,084 - INFO - New connection from ('127.0.0.1', 60759)
+2025-04-29 15:59:29,110 - INFO - Sent file list to client
+2025-04-29 16:00:32,631 - ERROR - Error handling client ('127.0.0.1', 60759): [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-04-29 16:00:32,631 - INFO - Connection from ('127.0.0.1', 60759) closed
+2025-04-29 16:00:36,159 - INFO - New connection from ('127.0.0.1', 60806)
+2025-04-29 16:00:36,160 - INFO - Sent file list to client
+2025-04-29 16:03:11,864 - ERROR - Error handling client ('127.0.0.1', 60806): [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-04-29 16:03:11,865 - INFO - Connection from ('127.0.0.1', 60806) closed
+2025-04-29 16:03:15,542 - INFO - New connection from ('127.0.0.1', 60899)
+2025-04-29 16:03:15,543 - INFO - Sent file list to client
+2025-04-29 16:03:23,562 - INFO - Connection from ('127.0.0.1', 60899) closed
+2025-04-29 16:06:05,581 - INFO - New connection from ('127.0.0.1', 61078)
+2025-04-29 16:06:05,582 - INFO - Sent file list to client
+2025-04-29 16:06:07,999 - ERROR - Error handling client ('127.0.0.1', 61078): 'utf-8' codec can't decode byte 0xb2 in position 3: invalid start byte
+2025-04-29 16:06:08,006 - INFO - Connection from ('127.0.0.1', 61078) closed
+2025-04-29 16:06:45,708 - INFO - Server initialized on localhost:9999
+2025-04-29 16:06:45,712 - INFO - Server started on localhost:9999
+2025-04-29 16:06:55,611 - INFO - New connection from ('127.0.0.1', 61118)
+2025-04-29 16:06:55,612 - INFO - Sent file list to client
+2025-04-29 16:06:57,999 - ERROR - Error handling client ('127.0.0.1', 61118): 'utf-8' codec can't decode byte 0xb2 in position 3: invalid start byte
+2025-04-29 16:06:58,000 - INFO - Connection from ('127.0.0.1', 61118) closed
+2025-04-29 16:07:38,516 - INFO - New connection from ('127.0.0.1', 61246)
+2025-04-29 16:07:38,517 - INFO - Sent file list to client
+2025-04-29 16:07:40,738 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-04-29 16:07:40,740 - INFO - Sent file list to client
+2025-04-29 16:07:44,408 - INFO - File Brainstorming for LR for MH and SRH_v1.docx uploaded successfully
+2025-04-29 16:07:44,410 - INFO - Sent file list to client
+2025-04-29 16:07:47,236 - INFO - File Brainstorming for LR for MH and SRH_v2.docx uploaded successfully
+2025-04-29 16:07:47,238 - INFO - Sent file list to client
+2025-04-29 16:19:24,927 - INFO - Sent file list to client
+2025-04-29 16:29:25,700 - INFO - Connection from ('127.0.0.1', 61246) closed
+2025-04-29 16:30:35,860 - INFO - New connection from ('127.0.0.1', 61739)
+2025-04-29 16:30:35,860 - INFO - Sent file list to client
+2025-04-29 16:30:38,640 - ERROR - File integrity check failed for Brainstorming for LR for MH and SRH.docx
+2025-04-29 16:30:38,641 - ERROR - Error handling client ('127.0.0.1', 61739): [WinError 10053] An established connection was aborted by the software in your host machine
+2025-04-29 16:30:38,642 - INFO - Connection from ('127.0.0.1', 61739) closed
+2025-04-29 16:31:35,247 - INFO - New connection from ('127.0.0.1', 61797)
+2025-04-29 16:31:35,247 - INFO - Sent file list to client
+2025-04-29 16:31:37,127 - ERROR - File integrity check failed for Brainstorming for LR for MH and SRH.docx
+2025-04-29 16:31:37,127 - ERROR - Error handling client ('127.0.0.1', 61797): [WinError 10053] An established connection was aborted by the software in your host machine
+2025-04-29 16:31:37,128 - INFO - Connection from ('127.0.0.1', 61797) closed
+2025-04-29 16:31:54,003 - INFO - New connection from ('127.0.0.1', 61814)
+2025-04-29 16:31:54,003 - INFO - Sent file list to client
+2025-04-29 16:31:56,438 - ERROR - File integrity check failed for Brainstorming for LR for MH and SRH.docx
+2025-04-29 16:31:56,438 - ERROR - Error handling client ('127.0.0.1', 61814): [WinError 10053] An established connection was aborted by the software in your host machine
+2025-04-29 16:31:56,439 - INFO - Connection from ('127.0.0.1', 61814) closed
+2025-04-29 16:34:07,963 - INFO - New connection from ('127.0.0.1', 61851)
+2025-04-29 16:34:07,963 - INFO - Sent file list to client
+2025-04-29 16:34:10,233 - ERROR - File integrity check failed for Brainstorming for LR for MH and SRH.docx
+2025-04-29 16:34:10,234 - ERROR - Error handling client ('127.0.0.1', 61851): [WinError 10053] An established connection was aborted by the software in your host machine
+2025-04-29 16:34:10,234 - INFO - Connection from ('127.0.0.1', 61851) closed
+2025-04-29 16:36:33,804 - INFO - New connection from ('127.0.0.1', 61898)
+2025-04-29 16:36:33,805 - INFO - Sent file list to client
+2025-04-29 16:36:36,050 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-04-29 16:36:36,051 - INFO - Sent file list to client
+2025-04-29 16:36:39,237 - INFO - File Brainstorming for LR for MH and SRH_v1.docx uploaded successfully
+2025-04-29 16:36:39,239 - INFO - Sent file list to client
+2025-04-29 16:36:41,988 - INFO - File Brainstorming for LR for MH and SRH_v2.docx uploaded successfully
+2025-04-29 16:36:41,989 - INFO - Sent file list to client
+2025-04-29 16:37:26,561 - INFO - Connection from ('127.0.0.1', 61898) closed
+2025-04-29 16:37:29,810 - INFO - New connection from ('127.0.0.1', 62003)
+2025-04-29 16:37:29,811 - INFO - Sent file list to client
+2025-04-29 16:37:33,033 - INFO - File Brainstorming for LR for MH and SRH_v3.docx uploaded successfully
+2025-04-29 16:37:33,035 - INFO - Sent file list to client
+2025-04-29 16:37:36,142 - INFO - File Brainstorming for LR for MH and SRH_v4.docx uploaded successfully
+2025-04-29 16:37:36,144 - INFO - Sent file list to client
+2025-04-29 16:37:53,389 - INFO - Sent file list to client
+2025-04-29 16:37:58,592 - INFO - Connection from ('127.0.0.1', 62003) closed
+2025-04-29 16:37:59,332 - INFO - New connection from ('127.0.0.1', 62063)
+2025-04-29 16:37:59,335 - INFO - Sent file list to client
+2025-04-29 16:38:54,498 - ERROR - Error handling client ('127.0.0.1', 62063): [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-04-29 16:38:54,498 - INFO - Connection from ('127.0.0.1', 62063) closed
+2025-04-29 16:39:14,380 - INFO - Server initialized on localhost:9999
+2025-04-29 16:39:14,384 - INFO - Server started on localhost:9999
+2025-04-29 16:39:24,650 - INFO - New connection from ('127.0.0.1', 62223)
+2025-04-29 16:39:24,650 - INFO - Sent file list to client
+2025-04-29 16:39:27,222 - INFO - File Form Based Requirements.docx uploaded successfully
+2025-04-29 16:39:27,223 - INFO - Sent file list to client
+2025-04-29 16:39:29,783 - INFO - File Form Based Requirements_v1.docx uploaded successfully
+2025-04-29 16:39:29,785 - INFO - Sent file list to client
+2025-04-29 16:39:32,690 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-04-29 16:39:32,692 - INFO - Sent file list to client
+2025-04-29 16:39:35,672 - INFO - File HW2&3_Combined_Fall_2024.pdf uploaded successfully
+2025-04-29 16:39:35,674 - INFO - Sent file list to client
+2025-04-29 16:39:53,360 - INFO - Sent file list to client
+2025-04-29 16:48:05,095 - INFO - Connection from ('127.0.0.1', 62223) closed
+2025-04-29 16:55:07,162 - INFO - New connection from ('127.0.0.1', 62795)
+2025-04-29 16:55:07,163 - INFO - Sent file list to client
+2025-04-29 16:55:42,967 - ERROR - Error handling client ('127.0.0.1', 62795): [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-04-29 16:55:42,968 - INFO - Connection from ('127.0.0.1', 62795) closed
+2025-04-29 16:56:15,276 - INFO - Server initialized on localhost:9999
+2025-04-29 16:56:15,280 - INFO - Server started on localhost:9999
+2025-04-29 16:56:22,530 - INFO - New connection from ('127.0.0.1', 62813)
+2025-04-29 16:56:22,530 - INFO - Sent file list to client
+2025-04-29 16:56:51,035 - ERROR - Error handling client ('127.0.0.1', 62813): [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-04-29 16:56:51,035 - INFO - Connection from ('127.0.0.1', 62813) closed
+2025-04-29 16:57:17,669 - INFO - New connection from ('127.0.0.1', 62844)
+2025-04-29 16:57:17,670 - INFO - Sent file list to client
+2025-04-29 16:57:20,069 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-04-29 16:57:20,072 - INFO - Sent file list to client
+2025-04-29 16:57:23,143 - INFO - File Brainstorming for LR for MH and SRH_v1.docx uploaded successfully
+2025-04-29 16:57:23,145 - INFO - Sent file list to client
+2025-04-29 16:57:26,227 - INFO - File Final_K2P_Briefing Note_Child Protection_April 11 2018.pdf uploaded successfully
+2025-04-29 16:57:26,228 - INFO - Sent file list to client
+2025-04-29 17:18:05,375 - ERROR - Error handling client ('127.0.0.1', 62844): [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-04-29 17:18:05,376 - INFO - Connection from ('127.0.0.1', 62844) closed
+2025-04-29 17:18:19,719 - INFO - Server initialized on localhost:9999
+2025-04-29 17:18:19,723 - INFO - Server started on localhost:9999
+2025-04-29 17:18:27,155 - INFO - New connection from ('127.0.0.1', 63092)
+2025-04-29 17:18:27,156 - INFO - Sent file list to client
+2025-04-29 17:18:38,040 - INFO - Connection from ('127.0.0.1', 63092) closed
+2025-04-29 17:19:06,606 - INFO - New connection from ('127.0.0.1', 63108)
+2025-04-29 17:19:06,608 - INFO - Sent file list to client
+2025-04-29 17:19:14,929 - ERROR - Error handling client ('127.0.0.1', 63108): [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-04-29 17:19:14,929 - INFO - Connection from ('127.0.0.1', 63108) closed
+2025-04-29 17:19:39,750 - INFO - New connection from ('127.0.0.1', 63117)
+2025-04-29 17:19:39,750 - INFO - Sent file list to client
+2025-04-29 17:19:42,377 - INFO - File Brainstorming for LR for MH and SRH_v1.docx uploaded successfully
+2025-04-29 17:19:42,378 - INFO - Sent file list to client
+2025-04-29 17:19:46,189 - INFO - File Brainstorming for LR for MH and SRH_v2.docx uploaded successfully
+2025-04-29 17:19:46,191 - INFO - Sent file list to client
+2025-04-29 17:19:59,532 - INFO - Sent file list to client
+2025-04-29 17:20:01,333 - INFO - Connection from ('127.0.0.1', 63117) closed
+2025-05-03 01:28:16,077 - INFO - Server initialized on localhost:9999
+2025-05-03 01:28:16,080 - INFO - Server started on localhost:9999
+2025-05-03 01:28:30,474 - INFO - New connection from ('127.0.0.1', 62314)
+2025-05-03 01:28:30,475 - INFO - Sent file list to client
+2025-05-03 01:29:04,334 - INFO - File Brainstorming for LR for MH and SRH.docx uploaded successfully
+2025-05-03 01:29:04,336 - INFO - Sent file list to client
+2025-05-03 01:29:11,082 - INFO - File Brainstorming for LR for MH and SRH_v1.docx uploaded successfully
+2025-05-03 01:29:11,084 - INFO - Sent file list to client
+2025-05-03 01:29:15,715 - INFO - Connection from ('127.0.0.1', 62314) closed
